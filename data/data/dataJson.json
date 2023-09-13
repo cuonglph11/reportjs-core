@@ -1,0 +1,37 @@
+{
+  "HISTORICAL_DATA": [
+    {
+      "number": "001",
+      "time": "08:00 AM",
+      "temp1": "25°C",
+      "humi1": "50%",
+      "temp2": "26°C",
+      "humi2": "48%",
+      "temp3": "24°C",
+      "humi3": "52%",
+      "temp4": "27°C",
+      "humi4": "47%",
+      "temp5": "23°C",
+      "humi5": "55%",
+      "temp6": "28°C",
+      "humi6": "45%"
+    },
+    {
+      "number": "002",
+      "time": "08:30 AM",
+      "temp1": "26°C",
+      "humi1": "49%",
+      "temp2": "27°C",
+      "humi2": "47%",
+      "temp3": "25°C",
+      "humi3": "51%",
+      "temp4": "28°C",
+      "humi4": "46%",
+      "temp5": "24°C",
+      "humi5": "54%",
+      "temp6": "29°C",
+      "humi6": "44%"
+    }
+  ],
+  "name": "Cuong"
+}

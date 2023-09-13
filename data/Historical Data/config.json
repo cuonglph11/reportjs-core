@@ -1,0 +1,23 @@
+{
+    "name": "Historical Data",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "scripts": [],
+    "data": {
+        "shortid": "qzR_8n4c0"
+    },
+    "shortid": "skFrMDKIJQ",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1692243502454
+    },
+    "modificationDate": {
+        "$$date": 1694098591292
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "8mpZkHiPraMsv1se",
+    "$entitySet": "templates"
+}

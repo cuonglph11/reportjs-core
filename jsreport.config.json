@@ -1,0 +1,36 @@
+{
+  "httpPort": 5488,
+  "debug": true,
+  "store": {
+    "provider": "fs"
+  },
+  "blobStorage": {
+    "provider": "fs"
+  },
+  "logger": {
+    "console": {
+      "transport": "console",
+      "level": "debug"
+    },
+    "file": {
+      "transport": "file",
+      "level": "info",
+      "filename": "logs/reporter.log"
+    },
+    "error": {
+      "transport": "file",
+      "level": "error",
+      "filename": "logs/error.log"
+    }
+  },
+  "trustUserCode": true,
+  "reportTimeout": 60000,
+  "workers": {
+    "numberOfWorkers": 2
+  },
+  "extensions": {
+    "sample-template": {
+      "createSamples": true
+    }
+  }
+}
